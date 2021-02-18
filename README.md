@@ -1,5 +1,5 @@
 # Applied-Data-Science-with-Python
-Lecture notes and Assignements from the Data Science Specialization of UoM.
+Lecture notes and Assignments from the Data Science Specialization of UoM.
 ### Course I: Introduction to Data Science in Python ✔️ 
 ### Course II: Applied Plotting, Charting & Data Representation in Python ✔️
 #### Module 2: Basic Charting
