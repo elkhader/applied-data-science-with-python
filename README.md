@@ -7,7 +7,7 @@ Lecture notes and Assignements from the Data Science Specialization of UoM.
 ***lectures:*** <a href="course-II/M2-Lectures Basic Charting.ipynb"> *Scatterplots, Line Plots, Bar Charts.*</a> 
 <br>***Assignment**: Plotting a given temperature dataset's mininum and maximum values.*
 <p align="left">
-<img style="left;" width="50%" height="50%" src="/others/c2-m2-assignment.png" ></p> 
+  <img style="left;" width="40%" height="40%" src="/others/c2-m2-assignment.png" ><em>(<a href="course-II">notebook</a> - <a href="course-II">final plot</a>)</em> </p> 
 
 
 #### Module 3: Charting Fundamentals
