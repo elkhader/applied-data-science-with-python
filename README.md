@@ -12,4 +12,7 @@ Lecture notes and Assignments from the Data Science Specialization of UoM.
 
 #### Module 3: Charting Fundamentals
 ***Lecture:*** <a href="course-II/M3-Charting_Fundamentals.ipynb"> *Subplots, Histograms, Box Plot, Heatmaps.*</a> 
+<br>***Assignment**: Barplots, and confidence intervals..*
+<p align="left">
+  <img style="left;" width="40%" height="40%" src="/others/c2-m3-assignment.png" ><em>(<a href="course-II/M3-Assignment.ipynb">notebook</a> - <a href="others/c2-m2-assignment.png">final plot</a>)</em> </p> 
 
