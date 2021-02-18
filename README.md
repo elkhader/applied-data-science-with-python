@@ -11,4 +11,5 @@ Lecture notes and Assignements from the Data Science Specialization of UoM.
 
 
 #### Module 3: Charting Fundamentals
-***lecture:*** <a href="course-II/M3-Charting_Fundamentals.ipynb"> *Subplots, Histograms, Box Plot, Heatmaps.*</a> 
+***Lecture:*** <a href="course-II/M3-Charting_Fundamentals.ipynb"> *Subplots, Histograms, Box Plot, Heatmaps.*</a> 
+
