@@ -14,9 +14,9 @@ Lecture notes and Assignments from the Data Science Specialization of UoM.
 ***Lecture:*** <a href="course-II/M3-Charting_Fundamentals.ipynb"> *Subplots, Histograms, Box Plot, Heatmaps.*</a> 
 <br>***Assignment**: Barplots, and confidence intervals..*
 <p align="left">
-  <img style="left;" width="40%" height="40%" src="/others/c2-m3-assignment.png" ><em>(<a href="course-II/M3-Assignment.ipynb">notebook</a> - <a href="others/c2-m2-assignment.png">final plot</a>)</em> </p> 
+  <img style="left;" width="40%" height="40%" src="/others/c2-m3-assignment.png" ><em>(<a href="course-II/M3-Assignment.ipynb">notebook</a> - <a href="others/c2-m3-assignment.png">final plot</a>)</em> </p> 
 
 ### Module 3: Applied Visualizations
 *Visualizing a dataset of one's choice.* ***Dataset**: <a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD">Worldbank's GDP dataset</a>.*
 <p align="left">
-  <img style="left;" width="40%" height="40%" src="/others/c2-m4-assignment.png" ><em>(<a href="course-II/M4-Assignment-gdp-growth-1960-2019.ipynb">notebook</a> - <a href="others/c2-m2-assignment.png">final plot</a>)</em> </p>
+  <img style="left;" width="40%" height="40%" src="/others/c2-m4-assignment.png" ><em>(<a href="course-II/M4-Assignment-gdp-growth-1960-2019.ipynb">notebook</a> - <a href="others/c2-m4-assignment.png">final plot</a>)</em> </p>
